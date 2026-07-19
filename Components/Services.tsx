@@ -1,26 +1,26 @@
 import Image from "next/image";
-import { ArrowUpRight, CarFront, Sparkles, UsersRound } from "lucide-react";
+import { ArrowUpRight, Sparkles, UsersRound, Sofa, Wrench} from "lucide-react";
 
 const services = [
   {
-    title: "Valet Services",
+    title: "Furniture Supply & Installation",
     description:
-      "Professional valet teams delivering a smooth, organized, and welcoming experience for guests, visitors, and clients.",
-    image: "/valet.png",
-    icon: CarFront,
+      "End-to-end furniture procurement, delivery, and professional installation services tailored to offices, hotels, commercial spaces, and residential properties.",
+    image: "/_HMD0601.JPG",
+    icon: Sofa,
   },
   {
-    title: "Hospitality Staff for Events",
+    title: "MEP Services",
     description:
-      "Well-trained hospitality personnel for corporate functions, private events, conferences, and special occasions.",
-    image: "/_HMD5706.JPG",
-    icon: UsersRound,
+      "Reliable mechanical, electrical, and plumbing solutions including installation, maintenance, repairs, and system optimization for all types of facilities.",
+    image: "/_HMD1888.JPG",
+    icon: Wrench,
   },
   {
     title: "Housekeeping",
     description:
       "Reliable housekeeping professionals committed to cleanliness, attention to detail, safety, and consistently high standards.",
-    image: "/_HMD0601.JPG",
+    image: "/_HMD1539.JPG",
     icon: Sparkles,
   },
 ];
