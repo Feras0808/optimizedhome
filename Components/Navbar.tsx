@@ -9,7 +9,7 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 flex items-center justify-between border-b border-white/20 bg-white/80 px-6 py-2 shadow-sm backdrop-blur-md md:px-12 md:py-3">
       <Link href="/" className="flex items-center">
         <Image
-          src="/logo.png"
+          src="/Home.png"
           alt="Optimized Home Logo"
           width={120}
           height={60}
