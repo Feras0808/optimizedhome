@@ -65,7 +65,7 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-gray-400">Contact Person</p>
                     <p className="mt-1 font-semibold text-white">
-                      Ms. Ayat Jebreel
+                      Ms. Ayat Jebrel
                     </p>
                     <p className="mt-1 text-sm text-gray-400">
                       Sales Executive
