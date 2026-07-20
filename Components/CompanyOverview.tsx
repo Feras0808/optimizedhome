@@ -76,16 +76,16 @@ export default function CompanyOverview() {
                     : index === 1
                     ? "border-[#B91C1C]/20 bg-[#FFF7F7]"
                     : index === 2
-                    ? "border-gray-800 bg-gray-900 text-white"
-                    : "border-[#B91C1C] bg-[#B91C1C] text-white"
+                    ? "border-[#B91C1C] bg-[#B91C1C] text-white"
+                    : "border-gray-300 bg-gray-100 text-gray-900"
                 }`}
               >
                 <div
                   className={`flex h-14 w-14 items-center justify-center rounded-2xl ${
                     index === 2
-                      ? "bg-white/10 text-white"
-                      : index === 3
                       ? "bg-white/15 text-white"
+                      : index === 3
+                      ? "bg-gray-200 text-gray-700"
                       : "bg-[#B91C1C]/10 text-[#B91C1C]"
                   }`}
                 >
@@ -101,8 +101,10 @@ export default function CompanyOverview() {
                     <p
                       key={paragraph}
                       className={`leading-8 ${
-                        index === 2 || index === 3
+                        index === 2
                           ? "text-white/85"
+                          : index === 3
+                          ? "text-gray-700"
                           : "text-gray-600"
                       }`}
                     >

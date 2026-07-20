@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="relative z-10 mx-auto flex min-h-screen w-full max-w-7xl items-center px-6 py-28 lg:px-10">
         <div className="max-w-3xl">
           <Image
-  src="/logo.png"
+  src="/Home.png"
   alt="Optimized Home"
   width={500}
   height={180}
@@ -27,16 +27,16 @@ export default function Hero() {
 />
 
           <h1 className="mt-7 text-5xl font-bold leading-tight text-white md:text-6xl lg:text-7xl">
-            Premium Hospitality &
+             Fitout Facility Management &
             <span className="block text-[#DC2626]">
-              Facility Management
+             Premium Hospitality
             </span>
           </h1>
 
           <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-100 md:text-xl">
-            Delivering exceptional housekeeping, valet, maintenance,
-            hospitality staffing, and facility management solutions with
-            unmatched professionalism across Qatar.
+           Providing professional Housekeeping, 
+           MEP Services, and Furniture Supply & Installation solutions with a 
+           commitment to quality, efficiency, and exceptional service across Qatar.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4">

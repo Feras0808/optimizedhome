@@ -65,10 +65,10 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-gray-400">Contact Person</p>
                     <p className="mt-1 font-semibold text-white">
-                      Mr. Eyad Daas
+                      Ms. Ayat Jebreel
                     </p>
                     <p className="mt-1 text-sm text-gray-400">
-                      Operation Manager
+                      Sales Executive
                     </p>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-gray-400">Phone</p>
                     <p className="mt-1 font-semibold text-white">
-                      +974 5567 1626
+                      +974 5021 2072
                     </p>
                   </div>
                 </a>
@@ -100,7 +100,7 @@ export default function Contact() {
                   <div className="min-w-0">
                     <p className="text-sm text-gray-400">Email</p>
                     <p className="mt-1 break-all font-semibold text-white">
-                      info@optimizedholding.com.qa
+                     ayat.jebrel@optimizedhome.com.qa
                     </p>
                   </div>
                 </a>

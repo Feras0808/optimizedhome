@@ -10,7 +10,7 @@ const leaders = [
       "Qatar’s unprecedented development during the last decade has motivated businessmen and entrepreneurs to pursue their business ambitions. Driven by the National Vision 2030, the country has transformed into a field of investment opportunities in multiple sectors. The Government has been committed to encouraging independence from hydrocarbon resources by seeking greater participation and partnership from the private sector to diversify and develop the country’s economy. These factors, along with my passion for business, inspired by being involved in the family business alongside my father from a young age, encouraged me to establish Optimized Holding—a company offering innovative products and services that cater to the evolving and increasingly sophisticated needs of the market.",
   },
   {
-    role: "General Manager",
+    role: "Group General Manager",
     name: "Mr. Reda Salem",
     image: "/Reda.jpg",
     speech:

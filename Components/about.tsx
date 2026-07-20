@@ -2,7 +2,7 @@ import Image from "next/image";
 import { CheckCircle2 } from "lucide-react";
 
 const features = [
-  "Established in 2012",
+  "Established in 2014",
   "Professional & Certified Staff",
   "Customized Facility Solutions",
   "International Quality Standards",
@@ -31,9 +31,9 @@ export default function About() {
           </span>
 
           <h2 className="mt-4 text-4xl font-bold leading-tight text-gray-900 lg:text-5xl">
-            Excellence in Hospitality &
+            Excellence in Fitout Facility Management &
             <span className="block text-[#B91C1C]">
-              Facility Management
+              Hospitality
             </span>
           </h2>
 
@@ -45,7 +45,7 @@ export default function About() {
           </p>
 
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Since our establishment in 2012 as a subsidiary of Optimized
+            Since our establishment in 2014 as a subsidiary of Optimized
             Holding, we have built our reputation by providing reliable,
             customized, and high-quality services delivered by highly trained
             professionals who operate according to local and international
