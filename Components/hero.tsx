@@ -27,7 +27,7 @@ export default function Hero() {
 />
 
           <h1 className="mt-7 text-5xl font-bold leading-tight text-white md:text-6xl lg:text-7xl">
-             Fit-out, Facility Management &
+             Fit-Out, Facility Management &
             <span className="block text-[#DC2626]">
              Premium Hospitality
             </span>

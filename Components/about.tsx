@@ -31,7 +31,7 @@ export default function About() {
           </span>
 
           <h2 className="mt-4 text-4xl font-bold leading-tight text-gray-900 lg:text-5xl">
-            Excellence in Fitout Facility Management &
+            Excellence in Fit-Out, Facility Management &
             <span className="block text-[#B91C1C]">
               Hospitality
             </span>
